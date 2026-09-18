@@ -1,0 +1,1 @@
+{"accuracy": 89.99, "f1": 0.9007, "roc_auc": 0.9652, "precision": 0.8968, "recall": 0.9046, "best_model": "Logistic Regression", "total_reviews": 49581}
