@@ -1,7 +1,7 @@
 # 🎬 IMDB Movie Review Sentiment Analysis
 
-> **Advanced NLP sentiment classifier — 89.95% accuracy on 49,581 real movie reviews**
-> Built by Eman Fatima | BS-AI @ PAF-IAST | ML Intern @ ProSensia
+> **Advanced NLP sentiment classifier — 89.9% accuracy on 49,581 real movie reviews**
+> Built by Eman Fatima | BS-AI @ PAF-IAST 
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.5-orange?style=flat-square)
@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Live Demo
-**[👉 Click here to try the live app](YOUR_STREAMLIT_URL_HERE)**
+**[👉 Click here to try the live app](https://imdb-sentiment-analysis-qmtex2cbenfnvlf2m77fqf.streamlit.app/)**
 
 ---
 
@@ -131,7 +131,6 @@ imdb-sentiment-analysis/
 
 **Eman Fatima**
 BS Artificial Intelligence — Semester 6 | PAF-IAST, Pakistan
-ML Intern @ ProSensia | HR Manager @ CtrlAltCrew | Dean's List (SGPA: 3.72)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eman-fatima-99962230b)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/EmanFatima00)
